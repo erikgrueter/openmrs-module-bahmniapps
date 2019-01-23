@@ -1,13 +1,13 @@
 {
     "BAHMNI_PAGE_TITLE_KEY": "بهمني الرئيسية",
     "LOGIN_LABEL_LOGIN_KEY": "تسجيل الدخول",
-    "LOGIN_LABEL_SUBMIT_KEY": "خضع",
-    "LOGIN_LABEL_ENTER_OTP_KEY": "أدخل OTP",
+    "LOGIN_LABEL_SUBMIT_KEY": "تسليم",
+    "LOGIN_LABEL_ENTER_OTP_KEY": "OTP أدخل",
     "LOGIN_LABEL_USERNAME_KEY": "اسم المستخدم",
     "LOGIN_LABEL_PASSWORD_KEY": "كلمه السر",
-    "LOGIN_LABEL_LOCATION_KEY": "موقعك",
-    "LOGIN_LABEL_LOGIN_ERROR_MESSAGE_KEY": "لم تتم مصادقتك أو انتهاء صلاحية جلستك. الرجاء تسجيل الدخول.",
-    "LOGIN_LABEL_WRONG_OTP_MESSAGE_KEY": "غير صحيح مكتب المدعي العام. يرجى إدخال OTP مرة أخرى.",
+    "LOGIN_LABEL_LOCATION_KEY": "الموقع",
+    "LOGIN_LABEL_LOGIN_ERROR_MESSAGE_KEY": "ليس لديك ترخيص الدخول أو انتهت صلاحية ترخيصك. الرجاء إعادة تسجيل الدخول",
+    "LOGIN_LABEL_WRONG_OTP_MESSAGE_KEY": "OTP غير صحيح. الرجاء إعادة إدخال OTP",
     "LOGIN_MESSAGE_ENTER_USERNAME_KEY": "أدخل اسم المستخدم الخاص بك",
     "LOGIN_MESSAGE_ENTER_PASSWORD_KEY": "ادخل رقمك السري",
     "LOGIN_LABEL_SELECT_LOCATION_KEY": "اختر موقعا",
@@ -16,7 +16,7 @@
     "HEADER_LABEL_SYNC_KEY": "مزامنة",
     "MESSAGE_DIALOG_OPTION_COPY" : "خطأ في النسخ",
     "MESSAGE_DIALOG_OPTION_OKAY": "حسنا",
-    "MESSAGE_START_OPENMRS": "خدمة OpenMRS غير متوفرة حاليًا. يرجى التحقق من بدء الخدمة وتحديث الصفحة بمجرد انتهائها.",
+    "MESSAGE_START_OPENMRS": "غير متوفرة حاليًا. رجى التحقق من بدء الخدمة وتحديث الصفحة بمجرد انتهائها OpenMRS خدمة",
     "LOGIN_LABEL_MAX_FAILED_ATTEMPTS": "تم تجاوز عدد محاولات OTP الخاطئة. الرجاد الدخول على الحساب من جديد.",
     "LOGIN_LABEL_OTP_EXPIRED" : "مكتب المدعي العام الخاص بك منتهي الصلاحية. الرجاد الدخول على الحساب من جديد.",
     "LOGIN_LABEL_RESEND_OTP" : "إعادة إرسال OTP",
@@ -52,7 +52,7 @@
     "NO_RESULTS_FOUND": "لا توجد نتائج",
     "PRIVILEGE_REQUIRED": "تم تسجيل دخول المستخدم ولكن ليس لديه الامتياز المعني",
     "NO_FULFILMENT_MESSAGE": "لم يتم التقاط أي ملاحظات لهذا الطلب",
-    "NO_NAVIGATION_LINKS_AVAILABLE_MESSAGE": "لا روابط ملاحة متاحة.",
+    "NO_NAVIGATION_LINKS_AVAILABLE_MESSAGE": "لا روابط تصفح متاحة.",
     "ACCEPT":"قبول",
-    "SELECT_VALUE_FROM_AUTOCOMPLETE_DEFAULT_MESSAGE": "يرجى تحديد قيمة من الاكتمال التلقائي"
+    "SELECT_VALUE_FROM_AUTOCOMPLETE_DEFAULT_MESSAGE": "يرجى تحديد قيمة من الاكمال التلقائي"
 }
