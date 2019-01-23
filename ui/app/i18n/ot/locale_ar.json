@@ -23,7 +23,7 @@
     "OT_ENTER_MANDATORY_FIELDS": "الرجاء اكمال الحقول الإلزامية",
     "OT_SAVE_SUCCESS_MESSAGE_KEY" : "تم الحفظ",
     "OT_ADD_SURGERY_KEY": "إدخال عملية جراحية",
-    "OT_ENTER_PATIENT_KEY": "إدخال رقم هوية المريض\الإسم",
+    "OT_ENTER_PATIENT_KEY": "إدخال رقم هوية المريض/الإسم",
     "OT_PATIENT": "المريض",
     "OT_SURGICAL_APPOINTMENT_EXCEEDS_BLOCK_DURATION": "الوقت المجمل للعمليات الجراحية يتجاوز الوقت المحدد",
     "OT_SURGICAL_APPOINTMENT_PROCEDURE": "اجزاء‫(‬ات‫)‬",
