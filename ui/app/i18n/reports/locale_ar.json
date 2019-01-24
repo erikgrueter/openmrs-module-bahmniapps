@@ -1,4 +1,4 @@
-{
+ {
     "userName": "اسم المستخدم",
     "password": "كلمه السر",
     "location": "موقعك",
@@ -8,7 +8,7 @@
     "REPORTS_NAME_HEADER_KEY":"اسم",
     "REPORTS_START_DATE_HEADER_KEY": "تاريخ البدء",
     "REPORTS_END_DATE_HEADER_KEY": "تاريخ الانتهاء",
-    "RUN_NOW_BUTTON_KEY": "اركض الآن",
+    "RUN_NOW_BUTTON_KEY": "تشغيل الآن",
     "RUN_REPORT_BUTTON_KEY": "تشغيل التقرير",
     "QUEUE_BUTTON_KEY": "طابور",
     "REPORT_FORMAT_KEY": "شكل",
@@ -40,7 +40,7 @@
     "TIME_OF_BIRTH_LABEL": "وقت الميلاد",
     "PATIENT_PROFILE_RELATIONSHIPS_LABEL": "العلاقات",
     "BROWSER_DOES_NOT_SUPPORT_VIDEO_TAG_MESSAGE":"متصفحك الحالي لا يدعم تشغيل الفيديو.",
-    "YEARS_LABEL": "Years",
+    "YEARS_LABEL": "سنوات",
     "CHOOSE_ANSWER_FROM_DROPDOWN_LABEL": "اختر الإجابة",
     "DELETE_LABEL": "حذف",
     "EDIT_LABEL": "تصحيح"
