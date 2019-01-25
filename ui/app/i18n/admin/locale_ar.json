@@ -1,10 +1,10 @@
 {
   "userName": "اسم المستخدم",
-  "password": "كلمه الس",
+  "password": "كلمه السر",
   "location": "موقعك",
   "login": "تسجيل الدخول",
   "selectLocation": "اختر موقعا",
-  "clinical_key": "مرضي",
+  "clinical_key": "مرضى",
   "MESSAGE_DIALOG_OPTION_COPY": "خطأ في النسخ",
   "MESSAGE_DIALOG_OPTION_OKAY": "حسنا",
   "PRIVILEGE_REQUIRED": "تم تسجيل دخول المستخدم ولكن ليس لديه الامتياز المعني",
