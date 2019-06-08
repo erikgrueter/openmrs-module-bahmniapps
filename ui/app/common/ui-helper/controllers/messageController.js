@@ -18,7 +18,8 @@ angular.module('bahmni.common.uiHelper')
             };
 
             $scope.isErrorMessagePresent = function () {
-                return $scope.messages.error.length > 0;
+                return false;
+                // return $scope.messages.error.length > 0;
             };
 
             $scope.isInfoMessagePresent = function () {
