@@ -65,5 +65,9 @@
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/Bhamni/opd/issues"
+  },
+  "dependencies": {
+    "4": "0.0.0",
+    "gulp": "^4.0.2"
   }
 }
