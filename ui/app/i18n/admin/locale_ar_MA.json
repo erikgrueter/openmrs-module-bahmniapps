@@ -1,0 +1,21 @@
+{
+  "userName": "اسم المستخدم",
+  "password": "كلمه السر",
+  "location": "الموقع",
+  "login": "تسجيل الدخول",
+  "selectLocation": "اختر الموقع",
+  "clinical_key": "مرضى",
+  "MESSAGE_DIALOG_OPTION_COPY": "خطأ في النسخ",
+  "MESSAGE_DIALOG_OPTION_OKAY": "صحيح",
+  "PRIVILEGE_REQUIRED": "تم تسجيل دخول المستخدم ولكن دخول للاشخاص المعنيين",
+  "FILTERS_HEADER_LABEL": "انتقاء",
+  "START_FROM_FILTER_LABEL": "يبدأ من",
+  "USERNAME_FILTER_LABEL": "اسم المستخدم",
+  "ENTER_USERNAME_PLACEHOLDER": "ادخل اسم المستخدم",
+  "PATIENT_ID_FILTER_LABEL": "انتقاء هوية المريض",
+  "ENTER_PATIENT_ID_PLACEHOLDER": "ادخل هوية المريض",
+  "FILTER_BUTTON_LABEL": "المحدد",
+  "AUDIT_LOG_TABLE_HEADER_LABEL": "سجل تدقيق الأحداث",
+  "NO_NAVIGATION_LINKS_AVAILABLE_MESSAGE": "لا روابط للاتجاهات المتاحة",
+  "SELECT_VALUE_FROM_AUTOCOMPLETE_DEFAULT_MESSAGE": "يرجى تحديد قيمة من الاكتمال التلقائي"
+}
